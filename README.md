@@ -29,6 +29,6 @@
 
 [![GEUN-TAE-KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=GEUN-TAE-KIM&show_icons=true&bg_color=30,ead7f8,f8ead7&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEUN-TAE-KIM&layout=compact&title_color=fff&bg_color=30,ead7f8,f8ead7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEUN-TAE-KIM&layout=compact&title_color=fff&bg_color=30,ead7f8,f8ead7&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
