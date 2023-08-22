@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=40:ead7f8,80:f8ead7&title_color=fff&height=300&section=header&text=GeunTaeKim%20GiuHub&fontColor=fff&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=40:cbbad7,80:f8ead7&title_color=fff&height=300&section=header&text=GeunTaeKim%20GiuHub&fontColor=fff&fontSize=50)
 
 <p align="center"> 안녕하세요. 저는 안드로이드 개발자 김근태입니다. </p>
 <p align="center"> 다양한 스킬들을 배우며 편리하게 이용할 수 있는 안드로이드 앱을 개발하는 것이 저의 목표입니다.　</p>
@@ -27,8 +27,8 @@
 <h3 align="center"> ⚙ Stats </h3>
 <div align="center">
 
-[![GEUN-TAE-KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=GEUN-TAE-KIM&show_icons=true&bg_color=30,ead7f8,f8ead7&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![GEUN-TAE-KIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=GEUN-TAE-KIM&show_icons=true&bg_color=30,cbbad7,f8ead7&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEUN-TAE-KIM&layout=compact&title_color=fff&bg_color=30,ead7f8,f8ead7&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEUN-TAE-KIM&layout=compact&title_color=fff&bg_color=30,cbbad7,f8ead7&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
