@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://velog.io/@rmsxo5678" target="_blank"> <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white"></a> 
   <a href="https://qiita.com/kimGeunTae" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/qiita-%2355C500?style=for-the-badge&logo=qiita&logoColor=white"></a> 
-  <a href="rmsxo5678@gmail.com" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="rmsxo0418@gmail.com" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
 
 </br>
