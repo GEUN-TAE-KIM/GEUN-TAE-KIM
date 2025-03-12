@@ -34,6 +34,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/jetpackcompose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+  </br>
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=white&color=black">
+
 </p>
 
 </br>
