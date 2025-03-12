@@ -14,7 +14,7 @@
 </br>
 <h3 align="center"> Google Play Store release </h3>
 <p align="center">
-  <a href="https://play.google.com/store/apps/developer?id=CreamAroma" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/googleplay-%23414141?style=for-the-badge&logo=googleplay"></a> 
+  <a href="https://play.google.com/store/apps/dev?id=7323810881238200496" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/googleplay-%23414141?style=for-the-badge&logo=googleplay"></a> 
 </p>
 
 </br>
